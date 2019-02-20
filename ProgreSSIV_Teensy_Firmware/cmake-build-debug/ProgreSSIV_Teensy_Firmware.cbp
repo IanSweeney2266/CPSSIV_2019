@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="ProgreSSIV_Teensy_Firmware"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/Iansweeney/Documents/school/Thesis/Test_Code/TeensyFirmware_TEST/Full Firmware/ProgreSSIV_Teensy_Firmware/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/Iansweeney/Documents/school/Thesis/Test_Code/TeensyFirmware_TEST/Full\ Firmware/ProgreSSIV_Teensy_Firmware/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/Iansweeney/Documents/school/Thesis/Test_Code/TeensyFirmware_TEST/Full\ Firmware/ProgreSSIV_Teensy_Firmware/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/Iansweeney/Documents/school/Thesis/Test_Code/TeensyFirmware_TEST/Full\ Firmware/ProgreSSIV_Teensy_Firmware/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/Iansweeney/Documents/school/Thesis/Test_Code/TeensyFirmware_TEST/Full\ Firmware/ProgreSSIV_Teensy_Firmware/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/Iansweeney/Documents/school/Thesis/Test_Code/TeensyFirmware_TEST/Full Firmware/ProgreSSIV_Teensy_Firmware/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/Iansweeney/Documents/school/Thesis/Test_Code/TeensyFirmware_TEST/Full\ Firmware/ProgreSSIV_Teensy_Firmware/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/Iansweeney/Documents/school/Thesis/Test_Code/TeensyFirmware_TEST/Full\ Firmware/ProgreSSIV_Teensy_Firmware/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/Iansweeney/Documents/school/Thesis/Test_Code/TeensyFirmware_TEST/Full\ Firmware/ProgreSSIV_Teensy_Firmware/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/Iansweeney/Documents/school/Thesis/Test_Code/TeensyFirmware_TEST/Full\ Firmware/ProgreSSIV_Teensy_Firmware/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/Iansweeney/Documents/school/Thesis/Test_Code/TeensyFirmware_TEST/Full Firmware/ProgreSSIV_Teensy_Firmware/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/Iansweeney/Documents/school/Thesis/Test_Code/TeensyFirmware_TEST/Full\ Firmware/ProgreSSIV_Teensy_Firmware/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/Iansweeney/Documents/school/Thesis/Test_Code/TeensyFirmware_TEST/Full\ Firmware/ProgreSSIV_Teensy_Firmware/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/Iansweeney/Documents/school/Thesis/Test_Code/TeensyFirmware_TEST/Full\ Firmware/ProgreSSIV_Teensy_Firmware/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/Iansweeney/Documents/school/Thesis/Test_Code/TeensyFirmware_TEST/Full\ Firmware/ProgreSSIV_Teensy_Firmware/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ProgreSSIV_Teensy_Firmware">
+				<Option output="/Users/Iansweeney/Documents/school/Thesis/Test_Code/TeensyFirmware_TEST/Full Firmware/ProgreSSIV_Teensy_Firmware/cmake-build-debug/ProgreSSIV_Teensy_Firmware" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/Iansweeney/Documents/school/Thesis/Test_Code/TeensyFirmware_TEST/Full Firmware/ProgreSSIV_Teensy_Firmware/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/Iansweeney/Documents/school/Thesis/Test_Code/TeensyFirmware_TEST/Full Firmware/ProgreSSIV_Teensy_Firmware/."/>
+					<Add directory="/Users/Iansweeney/Documents/school/Thesis/Test_Code/TeensyFirmware_TEST/Full Firmware/ProgreSSIV_Teensy_Firmware/cmake-build-debug"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/Iansweeney/Documents/school/Thesis/Test_Code/TeensyFirmware_TEST/Full\ Firmware/ProgreSSIV_Teensy_Firmware/cmake-build-debug/Makefile&quot;  VERBOSE=1 ProgreSSIV_Teensy_Firmware"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/Iansweeney/Documents/school/Thesis/Test_Code/TeensyFirmware_TEST/Full\ Firmware/ProgreSSIV_Teensy_Firmware/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/Iansweeney/Documents/school/Thesis/Test_Code/TeensyFirmware_TEST/Full\ Firmware/ProgreSSIV_Teensy_Firmware/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/Iansweeney/Documents/school/Thesis/Test_Code/TeensyFirmware_TEST/Full\ Firmware/ProgreSSIV_Teensy_Firmware/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ProgreSSIV_Teensy_Firmware/fast">
+				<Option output="/Users/Iansweeney/Documents/school/Thesis/Test_Code/TeensyFirmware_TEST/Full Firmware/ProgreSSIV_Teensy_Firmware/cmake-build-debug/ProgreSSIV_Teensy_Firmware" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/Iansweeney/Documents/school/Thesis/Test_Code/TeensyFirmware_TEST/Full Firmware/ProgreSSIV_Teensy_Firmware/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/Iansweeney/Documents/school/Thesis/Test_Code/TeensyFirmware_TEST/Full Firmware/ProgreSSIV_Teensy_Firmware/."/>
+					<Add directory="/Users/Iansweeney/Documents/school/Thesis/Test_Code/TeensyFirmware_TEST/Full Firmware/ProgreSSIV_Teensy_Firmware/cmake-build-debug"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/Iansweeney/Documents/school/Thesis/Test_Code/TeensyFirmware_TEST/Full\ Firmware/ProgreSSIV_Teensy_Firmware/cmake-build-debug/Makefile&quot;  VERBOSE=1 ProgreSSIV_Teensy_Firmware/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/Iansweeney/Documents/school/Thesis/Test_Code/TeensyFirmware_TEST/Full\ Firmware/ProgreSSIV_Teensy_Firmware/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/Iansweeney/Documents/school/Thesis/Test_Code/TeensyFirmware_TEST/Full\ Firmware/ProgreSSIV_Teensy_Firmware/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/Iansweeney/Documents/school/Thesis/Test_Code/TeensyFirmware_TEST/Full\ Firmware/ProgreSSIV_Teensy_Firmware/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/Iansweeney/Documents/school/Thesis/Test_Code/TeensyFirmware_TEST/Full Firmware/ProgreSSIV_Teensy_Firmware/Adafruit_BNO055_ProgreSSIV.cpp">
+			<Option target="ProgreSSIV_Teensy_Firmware"/>
+		</Unit>
+		<Unit filename="/Users/Iansweeney/Documents/school/Thesis/Test_Code/TeensyFirmware_TEST/Full Firmware/ProgreSSIV_Teensy_Firmware/Adafruit_BNO055_ProgreSSIV.h">
+			<Option target="ProgreSSIV_Teensy_Firmware"/>
+		</Unit>
+		<Unit filename="/Users/Iansweeney/Documents/school/Thesis/Test_Code/TeensyFirmware_TEST/Full Firmware/ProgreSSIV_Teensy_Firmware/Adafruit_Sensor.h">
+			<Option target="ProgreSSIV_Teensy_Firmware"/>
+		</Unit>
+		<Unit filename="/Users/Iansweeney/Documents/school/Thesis/Test_Code/TeensyFirmware_TEST/Full Firmware/ProgreSSIV_Teensy_Firmware/FlexCAN.cpp">
+			<Option target="ProgreSSIV_Teensy_Firmware"/>
+		</Unit>
+		<Unit filename="/Users/Iansweeney/Documents/school/Thesis/Test_Code/TeensyFirmware_TEST/Full Firmware/ProgreSSIV_Teensy_Firmware/FlexCAN.h">
+			<Option target="ProgreSSIV_Teensy_Firmware"/>
+		</Unit>
+		<Unit filename="/Users/Iansweeney/Documents/school/Thesis/Test_Code/TeensyFirmware_TEST/Full Firmware/ProgreSSIV_Teensy_Firmware/ProgreSSIV_CAN_msg_handler.cpp">
+			<Option target="ProgreSSIV_Teensy_Firmware"/>
+		</Unit>
+		<Unit filename="/Users/Iansweeney/Documents/school/Thesis/Test_Code/TeensyFirmware_TEST/Full Firmware/ProgreSSIV_Teensy_Firmware/ProgreSSIV_CAN_msg_handler.h">
+			<Option target="ProgreSSIV_Teensy_Firmware"/>
+		</Unit>
+		<Unit filename="/Users/Iansweeney/Documents/school/Thesis/Test_Code/TeensyFirmware_TEST/Full Firmware/ProgreSSIV_Teensy_Firmware/ProgreSSIV_IMU_task.cpp">
+			<Option target="ProgreSSIV_Teensy_Firmware"/>
+		</Unit>
+		<Unit filename="/Users/Iansweeney/Documents/school/Thesis/Test_Code/TeensyFirmware_TEST/Full Firmware/ProgreSSIV_Teensy_Firmware/ProgreSSIV_IMU_task.h">
+			<Option target="ProgreSSIV_Teensy_Firmware"/>
+		</Unit>
+		<Unit filename="/Users/Iansweeney/Documents/school/Thesis/Test_Code/TeensyFirmware_TEST/Full Firmware/ProgreSSIV_Teensy_Firmware/ProgreSSIV_MC_state_machine.cpp">
+			<Option target="ProgreSSIV_Teensy_Firmware"/>
+		</Unit>
+		<Unit filename="/Users/Iansweeney/Documents/school/Thesis/Test_Code/TeensyFirmware_TEST/Full Firmware/ProgreSSIV_Teensy_Firmware/ProgreSSIV_MC_state_machine.h">
+			<Option target="ProgreSSIV_Teensy_Firmware"/>
+		</Unit>
+		<Unit filename="/Users/Iansweeney/Documents/school/Thesis/Test_Code/TeensyFirmware_TEST/Full Firmware/ProgreSSIV_Teensy_Firmware/ProgreSSIV_SPI_task.cpp">
+			<Option target="ProgreSSIV_Teensy_Firmware"/>
+		</Unit>
+		<Unit filename="/Users/Iansweeney/Documents/school/Thesis/Test_Code/TeensyFirmware_TEST/Full Firmware/ProgreSSIV_Teensy_Firmware/ProgreSSIV_SPI_task.h">
+			<Option target="ProgreSSIV_Teensy_Firmware"/>
+		</Unit>
+		<Unit filename="/Users/Iansweeney/Documents/school/Thesis/Test_Code/TeensyFirmware_TEST/Full Firmware/ProgreSSIV_Teensy_Firmware/imumaths.h">
+			<Option target="ProgreSSIV_Teensy_Firmware"/>
+		</Unit>
+		<Unit filename="/Users/Iansweeney/Documents/school/Thesis/Test_Code/TeensyFirmware_TEST/Full Firmware/ProgreSSIV_Teensy_Firmware/input_handler.cpp">
+			<Option target="ProgreSSIV_Teensy_Firmware"/>
+		</Unit>
+		<Unit filename="/Users/Iansweeney/Documents/school/Thesis/Test_Code/TeensyFirmware_TEST/Full Firmware/ProgreSSIV_Teensy_Firmware/input_handler.h">
+			<Option target="ProgreSSIV_Teensy_Firmware"/>
+		</Unit>
+		<Unit filename="/Users/Iansweeney/Documents/school/Thesis/Test_Code/TeensyFirmware_TEST/Full Firmware/ProgreSSIV_Teensy_Firmware/kinetis_flexcan.h">
+			<Option target="ProgreSSIV_Teensy_Firmware"/>
+		</Unit>
+		<Unit filename="/Users/Iansweeney/Documents/school/Thesis/Test_Code/TeensyFirmware_TEST/Full Firmware/ProgreSSIV_Teensy_Firmware/matrix.h">
+			<Option target="ProgreSSIV_Teensy_Firmware"/>
+		</Unit>
+		<Unit filename="/Users/Iansweeney/Documents/school/Thesis/Test_Code/TeensyFirmware_TEST/Full Firmware/ProgreSSIV_Teensy_Firmware/output_handler.cpp">
+			<Option target="ProgreSSIV_Teensy_Firmware"/>
+		</Unit>
+		<Unit filename="/Users/Iansweeney/Documents/school/Thesis/Test_Code/TeensyFirmware_TEST/Full Firmware/ProgreSSIV_Teensy_Firmware/output_handler.h">
+			<Option target="ProgreSSIV_Teensy_Firmware"/>
+		</Unit>
+		<Unit filename="/Users/Iansweeney/Documents/school/Thesis/Test_Code/TeensyFirmware_TEST/Full Firmware/ProgreSSIV_Teensy_Firmware/quaternion.h">
+			<Option target="ProgreSSIV_Teensy_Firmware"/>
+		</Unit>
+		<Unit filename="/Users/Iansweeney/Documents/school/Thesis/Test_Code/TeensyFirmware_TEST/Full Firmware/ProgreSSIV_Teensy_Firmware/shares.h">
+			<Option target="ProgreSSIV_Teensy_Firmware"/>
+		</Unit>
+		<Unit filename="/Users/Iansweeney/Documents/school/Thesis/Test_Code/TeensyFirmware_TEST/Full Firmware/ProgreSSIV_Teensy_Firmware/vector.h">
+			<Option target="ProgreSSIV_Teensy_Firmware"/>
+		</Unit>
+		<Unit filename="/Users/Iansweeney/Documents/school/Thesis/Test_Code/TeensyFirmware_TEST/Full Firmware/ProgreSSIV_Teensy_Firmware/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
